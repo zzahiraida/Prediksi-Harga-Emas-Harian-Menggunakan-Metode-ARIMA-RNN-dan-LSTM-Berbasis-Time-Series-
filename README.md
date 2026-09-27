@@ -1,0 +1,2 @@
+# Prediksi-Harga-Emas-Harian-Menggunakan-Metode-ARIMA-RNN-dan-LSTM-Berbasis-Time-Series-
+Penelitian ini menganalisis dan memprediksi harga emas harian periode 2014–2025 menggunakan ARIMA, RNN, dan LSTM. Hasil evaluasi menunjukkan LSTM memiliki performa terbaik dengan MAPE 2,3462%, diikuti RNN 4,2795% dan ARIMA 21,4247%. Hal ini menunjukkan LSTM lebih efektif dalam memprediksi harga emas yang dinamis dan non-linear.
